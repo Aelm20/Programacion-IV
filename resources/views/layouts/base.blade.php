@@ -12,7 +12,7 @@
       <body>
             <!---------Encabezado-------->
             <header>
-                <a href="">
+                <a href="{{url('/welcome')}}">
                 <h2> Monitoring as a Services </h2>
                 </a>
                     <nav class="menu">
@@ -36,8 +36,8 @@
                  <h3>InformticsGuards SpA</h3>
                     <nav>
                          <ul>
-                             <a href="#" > Contáctanos </a><br/>
-                             <a href="#" >Acerca de nosotros</a>
+                             <a href="{{url('/contact')}}" > Contáctanos </a><br/>
+                             <a href="{{url('/about')}}" >Acerca de nosotros</a>
                         </ul>
                     </nav>
                 <p>&copy;2022 . designed by Alexaris Luna</p>
