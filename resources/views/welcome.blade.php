@@ -1,7 +1,5 @@
 @extends('layouts.base')
 
-@section('- MaaS', 'Bienvenido')
-
 @section ('content')
 
     <link rel="stylesheet"  href="{!! asset('css/app.css') !!}" >
