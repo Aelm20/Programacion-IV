@@ -9,7 +9,7 @@
         <input class="controls" type="text" name="Telefono" value="" placeholder=" Teléfono">
         <input class="controls" type="text" name="E-mail" value="" placeholder=" E-mail">
         <input class="controls" type="text" name="Tu mensaje" value="" placeholder=" Tu mensaje">
-        <input class="button-2" type="submit" name="" value=" Enviar">
+        <input class="button" type="submit" name="" value=" Envia tu mensaje">
     </section>
 @endsection
 

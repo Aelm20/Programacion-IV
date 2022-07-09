@@ -89,6 +89,7 @@ p{
 }
 
 .login h3{
+    text-align:left;
     margin-top:auto;
     height:40px;
     margin-bottom: 30px;
@@ -171,4 +172,54 @@ h3{
     color: #000;
     border:none;
     margin-bottom:16px;
+}
+
+.Register{
+    width: 350px;
+    height: 380px;
+    background: #4d028f;
+    margin: auto;
+    margin-top:60px;
+    box-shadow: 7px 13px 37px #000;
+    padding: 20px 30px;
+    border-top: 4px solid #fff;
+    color: white;
+}
+
+.Register h3{
+    text-align:left;
+    margin-top:auto;
+    height:40px;
+    margin-bottom: 30px;
+    border-bottom: 1px solid;
+    font-size:20px;
+}
+
+.ctrl {
+    width:95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: run-in;
+    border: 1px solid #000;
+    margin-bottom: 20px;
+    padding: 8px 1px;
+    font-size: 14px;
+}
+
+.ctrl1{
+    width:46%;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline;
+    border: 1px solid #000;
+    margin-bottom: 20px;
+    padding: 8px 1px;
+    font-size: 14px;
+}
+
+.Register p {
+    margin-bottom:10px;
+    text-align:center;
+    font-size: 12px;
+
 }

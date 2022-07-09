@@ -19,7 +19,7 @@
                         <ul>
                             <a href="#" >Nuestro Equipo</a>
                             <a href="#">Servicios</a>
-                            <a href="#">Registrate</a>
+                            <a href="{{url('/Registrate')}}">Registrate</a>
 
                         </ul>
                     </nav>

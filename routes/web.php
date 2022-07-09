@@ -24,5 +24,8 @@ Route::get('/contact', function () {
 Route::get('/about', function () {
     return view('about');
 });
+Route::get('/Registrate', function () {
+    return view('Registrate');
+});
 
 
