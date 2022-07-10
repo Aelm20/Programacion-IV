@@ -24,8 +24,15 @@ Route::get('/contact', function () {
 Route::get('/about', function () {
     return view('about');
 });
+
 Route::get('/Registrate', function () {
     return view('Registrate');
 });
 
+Route::get('/nuestro_equipo', function () {
+    return view('nuestro_equipo');
+});
 
+Route::get('/nuestro_servicio', function () {
+    return view('nuestro_servicio');
+});
