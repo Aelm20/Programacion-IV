@@ -2,7 +2,6 @@
 
 
 @section ('content')
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <link rel="stylesheet"  href="{!! asset('css/app.css') !!}" >
 
     <section class="about">
@@ -29,10 +28,19 @@
     <section class="about-three">
         <h1>NUESTROS VALORES COMO</h1>
         <H1>ORGANIZACIÓN</H1>
-        <img src="img/valores.jpg" alt="quienes somos">
+        <img src="img/valores.jpg" alt="quienes somos-1">
         <p>1. Hacer lo correcto.</p>
         <p>2. Hacer lo mejor que podamos.</p>
         <p>3. Demostrar a los demás que nos importan.</p>
+    </section>
+
+    <section class="about-four">
+        <h1>SI LO QUE NECESITAS ES TECNOLOGÍA DE VANGUARDIA </h1>
+        <H1>IG SPA ES TU MEJOR OPCIÓN</H1>
+        <p class="top-1">Somos sinónimo de la mejor calidad en innovación de software con </p>
+        <p>servicios complementarios diseñados para dar respuestas hechas a la</p>
+        <p>medida de tus necesidades en TI. Una gran variedad de organizaciones</p>
+        <p>pertenecientes a todos los sectores económicos lo certifican.</p>
     </section>
 
 @endsection
