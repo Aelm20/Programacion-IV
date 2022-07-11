@@ -17,7 +17,7 @@
                 </a>
                     <nav class="menu">
                         <ul>
-                            <a href="#" >Nuestro Equipo</a>
+                            <a href="{{url('/nuestro_equipo')}}" >Nuestro Equipo</a>
                             <a href="#">Servicios</a>
                             <a href="{{url('/Registrate')}}">Registrate</a>
 
