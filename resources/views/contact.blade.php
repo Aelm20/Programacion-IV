@@ -11,5 +11,6 @@
         <input class="controls1" type="text" name="Tu mensaje" value="" placeholder=" Tu mensaje">
         <input class="button" type="submit" name="" value=" Envia tu mensaje">
     </section>
+
 @endsection
 
