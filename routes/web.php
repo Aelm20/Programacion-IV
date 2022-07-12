@@ -33,6 +33,6 @@ Route::get('/nuestro_equipo', function () {
     return view('nuestro_equipo');
 });
 
-Route::get('/nuestro_servicios', function () {
-    return view('nuestro_servicios');
+Route::get('/nuestros_servicios', function () {
+    return view('nuestros_servicios');
 });
