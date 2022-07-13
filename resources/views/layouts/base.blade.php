@@ -12,9 +12,7 @@
       <body>
             <!---------Encabezado-------->
             <header>
-                <a href="{{url('/welcome')}}">
                 <h2> Monitoring as a Services </h2>
-                </a>
                     <nav class="menu">
                         <ul>
                             <a href="{{url('/nuestro_equipo')}}" >Nuestro Equipo</a>
