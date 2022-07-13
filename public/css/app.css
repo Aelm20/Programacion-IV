@@ -48,6 +48,7 @@ footer{
     width: 1090x;
     position: static;
     color: #fff;
+
 }
 
 .footer-content{
@@ -439,4 +440,49 @@ h3{
     margin-top:60px;
     font-size:40px;
     border-bottom: 3px solid #fff;
+}
+
+.service{
+    width: 55%;
+    height: 400px;
+    margin: auto;
+    padding: 20px 30px;
+    color: white;
+    position: relative;
+    right: 200px
+}
+
+.service h1 {
+    text-align: center;
+    font-size: 25px;
+    margin-top: 20px;
+
+}
+
+.service hr{
+    width:20%;
+    height:10px;
+    margin-left:40%;
+    background-color:#fff;
+    margin-top:10px;
+}
+
+.service p{
+    font-size:18px;
+    margin-bottom:10px;
+    position: relative;
+    left: 25px;
+}
+
+.tp{
+    margin-top:50px;
+}
+
+.service img{
+    width:440px;
+    position: absolute;
+    left: 570px;
+    top:0px;
+
+
 }
